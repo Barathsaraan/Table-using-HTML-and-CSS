@@ -1,0 +1,44 @@
+
+
+table,td,th{
+	border:1px solid green;
+	
+	border-collapse: collapse;
+	 }
+	 
+table,td,th{
+	width:100%;
+	height:auto;
+}
+
+table,td,th{
+	text-align:center;
+}
+
+td{
+	height:50px;
+	vertical-align:middle;
+}
+
+table,td,th{
+	border-collapse:collapse;
+	padding:5px;
+	
+}
+table,td,th{
+	border-bottom:1px solid yellow;
+}
+
+table tr:nth-child(even){
+	background-color:red;}
+	
+table tr:nth-child(odd){
+	background-color:pink;}
+	
+table tr:hover{
+background-color:yellow;
+color:white;
+}
+	
+}
+	
